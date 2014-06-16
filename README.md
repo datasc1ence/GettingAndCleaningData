@@ -31,12 +31,12 @@ using provided smartphone data to characterize human actvity.
 
 ### Assumptions:
 
-- The training and test data are available in folders named "train" and "test".
-- For each of these datasets:
+1. The training and test data are available in folders named "train" and "test".
+2. For each of these datasets:
     - Measurements are available in "X_<dataset>.txt" file
     - Subject information is available in "subject_<dataset>.txt" file
     - Activity codes are available in "y_<dataset>.txt" file
-- All activity codes and their labels are available in "activity_labels.txt" file 
-- Names of all measurements are available in "features.txt" file in same order as in "X_<dataset>.txt" files.
-- All columnnames containing *mean* represent mean values.
-- All columns containing *std* represent standard deviations values.
+3. All activity codes and their labels are available in "activity_labels.txt" file 
+4. Names of all measurements are available in "features.txt" file in same order as in "X_<dataset>.txt" files.
+5. All columnnames containing *mean* represent mean values.
+6. All columns containing *std* represent standard deviations values.
