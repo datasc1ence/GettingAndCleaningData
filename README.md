@@ -1,13 +1,15 @@
 GettingAndCleaningData
 ======================
 
-Project Getting and Cleaning Data - Data Science Specialization Track 3
+##Course Project Getting and Cleaning Data
 
-This repo supports the course project for Getting and Cleaning Data. 
-Using provided data from mobile data to characterize human actvity, 
-the script performs the following tasks:
-•Loads training and test data with sensible labels for the datasets
-•Filters on the mean() and std() variables of interest (see Codebook.md for more info).
+This repo contains the course project files for Getting and Cleaning Data, 
+using provided smartphone data to characterize human actvity. 
+
+The script performs the following actions:
+•Loads training and test data 
+•Assigns sensible labels 
+•Filters the mean() and std() variables of interest (see Codebook.md for more info).
 •Reshapes data into a tidy dataset with average values for included metrics by subject and activity.
 
 The output file is a tab-separated file called "tidy_average.txt" placed in the working dir.
@@ -19,6 +21,7 @@ The output file is a tab-separated file called "tidy_average.txt" placed in the 
 
 Execute this script: 
 1. place "run_analysis.R" in the working dir
-2. •Download the data set and extract in subdir "UCI HAR Dataset"
-3. > Source("run_analysis.R")
-4. > main()
+2. Download the data set: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+3. extract in subdir "UCI HAR Dataset"
+4. > Source("run_analysis.R")
+5. > main()
