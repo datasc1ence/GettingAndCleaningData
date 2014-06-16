@@ -3,7 +3,7 @@ GettingAndCleaningData
 
 ##Course Project Getting and Cleaning Data
 
-This repo contains the course project files for Getting and Cleaning Data, 
+This repo supports the course project for Getting and Cleaning Data, 
 using provided smartphone data to characterize human actvity. 
 
 The script performs the following actions:
