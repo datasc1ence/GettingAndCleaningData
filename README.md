@@ -12,7 +12,7 @@ using provided smartphone data to characterize human actvity.
 3. Filter the mean() and std() variables of interest (see Codebook.md for more info).
 4. Reshapes data into tidy dataset with average values for included metrics by subject and activity.
 
-### The output file is a tab-separated file called "tidy_average.txt" placed in the working dir.
+### The output is a tab-separated file called "tidy_average.txt" in the working dir.
 
 ### 3 files in this repo:
 1.   README.md      - this file
