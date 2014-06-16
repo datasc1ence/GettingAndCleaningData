@@ -24,6 +24,4 @@ Execute this script:
 2. Download the data set: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 3. extract in subdir "UCI HAR Dataset"
 4. Run script: Rscript run_analysis.r
-or 
-4. in R > Source("run_analysis.R")
-5. In R > main()
+or from R > Source("run_analysis.R") and > main()
