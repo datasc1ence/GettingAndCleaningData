@@ -23,5 +23,5 @@ Execute this script:
 1. place "run_analysis.R" in the working dir
 2. Download the data set: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 3. extract in subdir "UCI HAR Dataset"
-4. > Source("run_analysis.R")
-5. > main()
+4. in R > Source("run_analysis.R")
+5. In R > main()
